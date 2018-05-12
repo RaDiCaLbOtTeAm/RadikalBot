@@ -98,7 +98,7 @@ function create_config( )
     "Pardakht", 		
     "Write"
 	},
-    sudo_users = {353171541},
+    sudo_users = {476665278},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
